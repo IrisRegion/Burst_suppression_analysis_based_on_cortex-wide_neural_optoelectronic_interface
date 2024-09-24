@@ -19,8 +19,9 @@ These codes are tested under Python 3.8.15. The pipeline consists of the followi
 
 ### 1. Data pre-processing
 
-The '**/p1_dff0_extract**' folder consists of codes for calculating Δ*F/F* from the raw traces. 
+The '**/01_data_pre-processing**' folder consists of codes for processing the raw traces. 
 
-* Extract Δ*F/F* of each stimulus for each indicator (for the analysis of odor responses):
+  * '**/011_find_burst_timestamps.ipynb**': Select the timestamps of burst or suppression periods.
 
-  `python p1_dff0_extract/c1_dff0_stim.py `
+  * '**/012_data_processing_and_classification.ipynb**': Screening different types of neurons according to burst and suppression periods.
+  <br/>
