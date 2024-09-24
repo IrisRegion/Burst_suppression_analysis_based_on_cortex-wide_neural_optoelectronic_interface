@@ -24,3 +24,30 @@ The '**/01_data_pre-processing**' folder consists of codes for processing the ra
 
   * '**/012_data_processing_and_classification.ipynb**': Screening different types of neurons according to burst and suppression periods.
   <br/>
+
+### 2. Burst generation analysis
+
+The '**/02_burst_generation_analysis**' folder consists of codes for processing the raw traces. 
+
+  * '**/011_find_burst_timestamps.ipynb**': 
+
+  * '**/012_data_processing_and_classification.ipynb**':
+  <br/>
+
+### 3. Burst propagation analysis
+
+The '**/03_burst_propagation_analysis**' folder consists of codes for processing the raw traces. 
+
+  * '**/011_find_burst_timestamps.ipynb**': Select the timestamps of burst or suppression periods.
+
+  * '**/012_data_processing_and_classification.ipynb**': Screening different types of neurons according to burst and suppression periods.
+  <br/>
+
+### 4. Other results
+
+The '**/04_supplementary_figures**' folder consists of codes for processing the raw traces. 
+
+  * '**/011_find_burst_timestamps.ipynb**': Select the timestamps of burst or suppression periods.
+
+  * '**/012_data_processing_and_classification.ipynb**': Screening different types of neurons according to burst and suppression periods.
+  <br/>
