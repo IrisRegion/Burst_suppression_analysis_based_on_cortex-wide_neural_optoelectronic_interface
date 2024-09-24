@@ -10,8 +10,7 @@ Please install the dependencies using:
 
 ## Datasets
 
-* The demo data is currently available on [OneDrive](xxxx). When using the demo data to test the codes, please change the name of the file folders in the codes according to the storage location of the data.
-* The entire dataset with a total size of xx TB, which includes the extracted neuronal traces and electrophysiological signals of 5 mice, will be open-sourced after publication. The transgenic mice consisted of two types: Cx3Cr1-GFP mice (for microglia labeling) and Rasgrf2-2A-dCre/Ai148D mice (for neuronal labeling with GCaMP6f in layers 2/3).
+* The entire dataset, which includes the extracted neuronal traces and electrophysiological signals of 5 mice, will be open-sourced after publication. The transgenic mice consisted of two types: Cx3Cr1-GFP mice (for microglia labeling) and Rasgrf2-2A-dCre/Ai148D mice (for neuronal labeling with GCaMP6f in layers 2/3).
 
 ## Usage
 
